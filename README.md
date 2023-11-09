@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![logo](https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif)
 <h1 align="center">Hi 👋, I'm Hitesh Pardeshi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
